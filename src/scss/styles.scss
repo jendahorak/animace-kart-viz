@@ -1,0 +1,12 @@
+$primary: #aa2d12;
+$secondary: #646464;
+$info: #c88b00;
+$light: #f3ece0;
+
+@import '~bootstrap/scss/bootstrap';
+
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+
+:root {
+  --bs-body-font-family: 'Courier Prime', monospace;
+}
